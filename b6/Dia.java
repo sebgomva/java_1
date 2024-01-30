@@ -1,5 +1,0 @@
-package b6;
-
-public enum Dia {
-    DOMINGO,LUNES,MARTES,MIERCOLES,JUEVES,VIERNES,SABADO
-}
